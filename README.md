@@ -6,7 +6,7 @@
 
 English / [简体中文](./README.zh-CN.md)
 
-An mobile web apps template based on the Vue 3 ecosystem.
+An mobile web apps template based on the Vue 3  ecosystem.
 
 一个基于 Vue 3 生态系统的移动 web 应用模板，帮助你快速完成业务开发。
 
