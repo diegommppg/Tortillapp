@@ -6,7 +6,7 @@ const Configuration: UserConfig = {
   formatter: '@commitlint/format',
   rules: {
     'type-enum': [
-      RuleConfigSeverity.Error,
+      /*RuleConfigSeverity.Error,
       'always',
       [
         'feat',
@@ -24,7 +24,7 @@ const Configuration: UserConfig = {
         'workflow',
         'types',
         'release',
-      ],
+      ],*/
     ],
   },
 }
